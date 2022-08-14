@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0096FF,100:72FFFF)
 ### Hi! I'm *Chae eun Jung🍪* <br> A developer who loves Object-Oriented Programming with JAVA💙
 
 > ### Interest
@@ -5,7 +6,6 @@
 - Database 
 - Design Pattern
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:72FFFF,100:0096FF&section=footer)
 <!--
 **jungchaen/jungchaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
