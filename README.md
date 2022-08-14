@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi! I'm *Chae eun Jung🍪* <br> A developer who loves Object-Oriented Programming with JAVA💙
 <!--
 **jungchaen/jungchaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
