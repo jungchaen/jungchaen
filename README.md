@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?height=170&type=waving&text=Hi,%20I'm%20ChaeEun!&fontSize=60&color=0:72FFFF,100:0096FF)
+![Header](https://capsule-render.vercel.app/api?height=155&type=waving&text=Hi,%20I'm%20ChaeEun%20Jung!&fontSize=40&color=0:72FFFF,100:0096FF)
 
-### A developer who loves Object-Oriented Programming with JAVA💙
+## A developer who loves Object-Oriented Programming with JAVA💙
 
 > ### Interest
 - Spring
