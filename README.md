@@ -1,4 +1,4 @@
-## Hi!, Jung Chean🐟 
+## Hi! I'm Jung Chean🐟 
 A developer who loves Object-Oriented Programming with Java
 
 ### Interested in..🐠 
