@@ -1,5 +1,4 @@
 ## 🐟JungChaeEun 
-##### 벡엔드 개발자를 목표로 공부중입니다!
 ##### Spring, Spring Boot, DB에 관심이 많고 주력 언어는 JAVA입니다.
 
 ### 🐠Skill 
